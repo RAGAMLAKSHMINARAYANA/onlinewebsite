@@ -30,7 +30,7 @@ Run from the online-exam folder (the server looks for ./public):
 
     java src/ExamServer.java
 
-Open http://localhost:8080
+Open http://localhost:9090
 Demo logins: student1 / pass123, student2 / pass456, alice / alice@123
 
 In IntelliJ: right-click `src` > Mark Directory as > Sources Root, then run
