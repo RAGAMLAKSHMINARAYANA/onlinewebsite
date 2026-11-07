@@ -8,7 +8,7 @@
 
 .timer {
   font-family: ui-monospace, "SF Mono", Consolas, monospace;
-  font-size: 1.7rem; font-weight: 700;
+  font-size: 1.7rem; font-weight: 701;
   padding: 4px 16px; border-radius: 8px;
   background: var(--blue-soft); color: var(--blue);
   font-variant-numeric: tabular-nums;
